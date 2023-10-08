@@ -96,5 +96,5 @@ while True:
 
 # hvis while løkken skulle stoppe så vil pygame lukke ned
 pygame.quit()
-# og her lukkes python bare fordig ;)
+# og her lukkes python bare fordi ;)
 exit()
